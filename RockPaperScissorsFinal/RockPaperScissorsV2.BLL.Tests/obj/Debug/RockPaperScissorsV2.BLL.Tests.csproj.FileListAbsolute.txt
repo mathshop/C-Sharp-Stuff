@@ -1,0 +1,9 @@
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\RockPaperScissorsFinal\RockPaperScissorsV2.BLL.Tests\bin\Debug\RockPaperScissorsV2.BLL.Tests.dll
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\RockPaperScissorsFinal\RockPaperScissorsV2.BLL.Tests\bin\Debug\RockPaperScissorsV2.BLL.Tests.pdb
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\RockPaperScissorsFinal\RockPaperScissorsV2.BLL.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\RockPaperScissorsFinal\RockPaperScissorsV2.BLL.Tests\bin\Debug\RockPaperScissorsV2.BLL.dll
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\RockPaperScissorsFinal\RockPaperScissorsV2.BLL.Tests\bin\Debug\RockPaperScissorsV2.BLL.pdb
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\RockPaperScissorsFinal\RockPaperScissorsV2.BLL.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\RockPaperScissorsFinal\RockPaperScissorsV2.BLL.Tests\obj\Debug\RockPaperScissorsV2.BLL.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\RockPaperScissorsFinal\RockPaperScissorsV2.BLL.Tests\obj\Debug\RockPaperScissorsV2.BLL.Tests.dll
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\RockPaperScissorsFinal\RockPaperScissorsV2.BLL.Tests\obj\Debug\RockPaperScissorsV2.BLL.Tests.pdb

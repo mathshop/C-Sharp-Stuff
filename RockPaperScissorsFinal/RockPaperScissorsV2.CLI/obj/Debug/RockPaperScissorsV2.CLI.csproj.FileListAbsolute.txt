@@ -1,0 +1,16 @@
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\RockPaperScissorsV2template\RockPaperScissorsV2.CLI\bin\Debug\RockPaperScissorsV2.CLI.exe.config
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\RockPaperScissorsV2template\RockPaperScissorsV2.CLI\bin\Debug\RockPaperScissorsV2.CLI.exe
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\RockPaperScissorsV2template\RockPaperScissorsV2.CLI\bin\Debug\RockPaperScissorsV2.CLI.pdb
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\RockPaperScissorsV2template\RockPaperScissorsV2.CLI\bin\Debug\RockPaperScissorsV2.BLL.dll
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\RockPaperScissorsV2template\RockPaperScissorsV2.CLI\bin\Debug\RockPaperScissorsV2.BLL.pdb
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\RockPaperScissorsV2template\RockPaperScissorsV2.CLI\obj\Debug\RockPaperScissorsV2.CLI.csprojResolveAssemblyReference.cache
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\RockPaperScissorsV2template\RockPaperScissorsV2.CLI\obj\Debug\RockPaperScissorsV2.CLI.exe
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\RockPaperScissorsV2template\RockPaperScissorsV2.CLI\obj\Debug\RockPaperScissorsV2.CLI.pdb
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\RockPaperScissorsFinal\RockPaperScissorsV2.CLI\bin\Debug\RockPaperScissorsV2.CLI.exe.config
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\RockPaperScissorsFinal\RockPaperScissorsV2.CLI\obj\Debug\RockPaperScissorsV2.CLI.exe
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\RockPaperScissorsFinal\RockPaperScissorsV2.CLI\obj\Debug\RockPaperScissorsV2.CLI.pdb
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\RockPaperScissorsFinal\RockPaperScissorsV2.CLI\bin\Debug\RockPaperScissorsV2.CLI.exe
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\RockPaperScissorsFinal\RockPaperScissorsV2.CLI\bin\Debug\RockPaperScissorsV2.CLI.pdb
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\RockPaperScissorsFinal\RockPaperScissorsV2.CLI\bin\Debug\RockPaperScissorsV2.BLL.dll
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\RockPaperScissorsFinal\RockPaperScissorsV2.CLI\bin\Debug\RockPaperScissorsV2.BLL.pdb
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\RockPaperScissorsFinal\RockPaperScissorsV2.CLI\obj\Debug\RockPaperScissorsV2.CLI.csprojResolveAssemblyReference.cache
