@@ -1,0 +1,8 @@
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\FlooringMastery.CLI - Productioninwrk\FlooringMastery.Data\bin\Debug\FlooringMastery.Data.dll.config
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\FlooringMastery.CLI - Productioninwrk\FlooringMastery.Data\bin\Debug\FlooringMastery.Data.dll
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\FlooringMastery.CLI - Productioninwrk\FlooringMastery.Data\bin\Debug\FlooringMastery.Data.pdb
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\FlooringMastery.CLI - Productioninwrk\FlooringMastery.Data\bin\Debug\FlooringMaster.Models.dll
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\FlooringMastery.CLI - Productioninwrk\FlooringMastery.Data\bin\Debug\FlooringMaster.Models.pdb
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\FlooringMastery.CLI - Productioninwrk\FlooringMastery.Data\obj\Debug\FlooringMastery.Data.csprojResolveAssemblyReference.cache
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\FlooringMastery.CLI - Productioninwrk\FlooringMastery.Data\obj\Debug\FlooringMastery.Data.dll
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\FlooringMastery.CLI - Productioninwrk\FlooringMastery.Data\obj\Debug\FlooringMastery.Data.pdb

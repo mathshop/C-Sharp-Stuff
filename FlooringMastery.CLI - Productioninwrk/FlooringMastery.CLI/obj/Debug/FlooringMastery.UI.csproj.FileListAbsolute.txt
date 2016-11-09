@@ -1,0 +1,12 @@
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\FlooringMastery.CLI - Productioninwrk\FlooringMastery.CLI\bin\Debug\FlooringMastery.CLI.exe.config
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\FlooringMastery.CLI - Productioninwrk\FlooringMastery.CLI\bin\Debug\FlooringMastery.CLI.exe
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\FlooringMastery.CLI - Productioninwrk\FlooringMastery.CLI\bin\Debug\FlooringMastery.CLI.pdb
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\FlooringMastery.CLI - Productioninwrk\FlooringMastery.CLI\bin\Debug\FlooringMaster.Models.dll
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\FlooringMastery.CLI - Productioninwrk\FlooringMastery.CLI\bin\Debug\FlooringMastery.BLL.dll
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\FlooringMastery.CLI - Productioninwrk\FlooringMastery.CLI\bin\Debug\FlooringMastery.Data.dll
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\FlooringMastery.CLI - Productioninwrk\FlooringMastery.CLI\bin\Debug\FlooringMaster.Models.pdb
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\FlooringMastery.CLI - Productioninwrk\FlooringMastery.CLI\bin\Debug\FlooringMastery.BLL.pdb
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\FlooringMastery.CLI - Productioninwrk\FlooringMastery.CLI\bin\Debug\FlooringMastery.Data.pdb
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\FlooringMastery.CLI - Productioninwrk\FlooringMastery.CLI\obj\Debug\FlooringMastery.UI.csprojResolveAssemblyReference.cache
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\FlooringMastery.CLI - Productioninwrk\FlooringMastery.CLI\obj\Debug\FlooringMastery.CLI.exe
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\FlooringMastery.CLI - Productioninwrk\FlooringMastery.CLI\obj\Debug\FlooringMastery.CLI.pdb

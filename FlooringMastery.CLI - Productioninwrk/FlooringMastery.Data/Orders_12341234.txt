@@ -1,0 +1,7 @@
+NumberID,OrderID,CustomerName,State,Product,AreaProvided,TotalProductCost,TotalLaborCost,Tax,TotalPrice
+2,12341234,chengthao1,MN,Tile,100,350.00,415.00,6.875,817.59
+4,12341234,wefkljwl,WI,Tile,12,42.00,49.80,5.00,96.39
+5,12341234,Cheng,MN,Laminate,100,175.00,210.00,6.875,411.47
+6,12341234,CHengthaodoesitwork,MN,Wood,100,515.00,475.00,6.875,1058.06
+7,12341234,chengthao,MN,Wood,9000,46350.00,42750.00,6.875,95225.62
+8,12341234,cheng,MN,Wood,1,5.15,4.75,6.875,10.58

@@ -1,0 +1,6 @@
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\FlooringMastery.CLI - Productioninwrk\FlooringMaster.Models\bin\Debug\FlooringMaster.Models.dll.config
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\FlooringMastery.CLI - Productioninwrk\FlooringMaster.Models\bin\Debug\FlooringMaster.Models.dll
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\FlooringMastery.CLI - Productioninwrk\FlooringMaster.Models\bin\Debug\FlooringMaster.Models.pdb
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\FlooringMastery.CLI - Productioninwrk\FlooringMaster.Models\obj\Debug\FlooringMastery.Models.csprojResolveAssemblyReference.cache
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\FlooringMastery.CLI - Productioninwrk\FlooringMaster.Models\obj\Debug\FlooringMaster.Models.dll
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\FlooringMastery.CLI - Productioninwrk\FlooringMaster.Models\obj\Debug\FlooringMaster.Models.pdb
