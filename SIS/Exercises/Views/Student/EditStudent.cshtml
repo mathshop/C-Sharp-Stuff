@@ -1,0 +1,30 @@
+﻿@model Exercises.Models.Data.Student
+
+@{
+    ViewBag.Title = "EditStudent";
+}
+
+<h2>EditStudent</h2>
+
+<div class="row">
+    <div class="col-xs-12">
+        <h3>Edit Course</h3>
+        @Html.ActionLink("Return to List", "List", "Student")
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-12">
+        @using (Html.BeginForm())
+        {
+            @Html.HiddenFor(m => m.StudentId)
+            <div class="form-group">
+                <label>Course</label>
+                @Html.TextBoxFor(m => m.FirstName, new { @class = "form-control", placeholder = "FirstName" })
+                @Html.TextBoxFor(m => m.LastName, new { @class = "form-control", placeholder = "LastName" })
+                @Html.TextBoxFor(m => m.Major.MajorName, new { @class = "form-control", placeholder = "Major" })
+                @Html.TextBoxFor(m => m.GPA, new { @class = "form-control", placeholder = "GPA" })
+            </div>
+            <button type="submit" class="btn btn-sm btn-primary">Save</button>
+        }
+    </div>
+</div>   

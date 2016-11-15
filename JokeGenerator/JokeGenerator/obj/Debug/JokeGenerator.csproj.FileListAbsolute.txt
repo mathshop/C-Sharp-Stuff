@@ -1,0 +1,6 @@
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\JokeGenerator\JokeGenerator\bin\Debug\JokeGenerator.exe.config
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\JokeGenerator\JokeGenerator\bin\Debug\JokeGenerator.exe
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\JokeGenerator\JokeGenerator\bin\Debug\JokeGenerator.pdb
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\JokeGenerator\JokeGenerator\obj\Debug\JokeGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\JokeGenerator\JokeGenerator\obj\Debug\JokeGenerator.exe
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\JokeGenerator\JokeGenerator\obj\Debug\JokeGenerator.pdb
