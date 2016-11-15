@@ -19,7 +19,7 @@ namespace BattleShip.UI
                 StartMenu startingnow = new StartMenu();
                 playGame letsPlayFinally = new playGame();
                 playGame playGame = new playGame();
-               
+
                 Console.WriteLine("Welcome to the game of Battleship!!");
                 Console.ReadLine();
 
@@ -46,8 +46,8 @@ namespace BattleShip.UI
 
                 Console.WriteLine("Would you like to play again? Press Y");
                 string userInput = Console.ReadLine().ToUpper();
-               
-                if (userInput== null || userInput != "Y"|| userInput == "")
+
+                if (userInput == null || userInput != "Y" || userInput == "")
                 {
                     playAgain = false;
                 }

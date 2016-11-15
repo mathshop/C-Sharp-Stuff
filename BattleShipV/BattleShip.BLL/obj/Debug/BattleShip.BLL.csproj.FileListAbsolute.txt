@@ -1,5 +1,5 @@
-C:\Users\Cheng\Desktop\BattleShipv3\BattleShip.BLL\bin\Debug\BattleShip.BLL.dll
-C:\Users\Cheng\Desktop\BattleShipv3\BattleShip.BLL\bin\Debug\BattleShip.BLL.pdb
-C:\Users\Cheng\Desktop\BattleShipv3\BattleShip.BLL\obj\Debug\BattleShip.BLL.csprojResolveAssemblyReference.cache
-C:\Users\Cheng\Desktop\BattleShipv3\BattleShip.BLL\obj\Debug\BattleShip.BLL.dll
-C:\Users\Cheng\Desktop\BattleShipv3\BattleShip.BLL\obj\Debug\BattleShip.BLL.pdb
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\BattleShipmvc\BattleShip.BLL\bin\Debug\BattleShip.BLL.dll
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\BattleShipmvc\BattleShip.BLL\bin\Debug\BattleShip.BLL.pdb
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\BattleShipmvc\BattleShip.BLL\obj\Debug\BattleShip.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\BattleShipmvc\BattleShip.BLL\obj\Debug\BattleShip.BLL.dll
+C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\BattleShipmvc\BattleShip.BLL\obj\Debug\BattleShip.BLL.pdb

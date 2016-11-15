@@ -5,7 +5,7 @@ namespace BattleShip.BLL.GameLogic
     public class ShipCreator
     {
         public static Ship CreateShip(ShipType type)
-        {                       
+        {
             switch (type)
             {
                 case ShipType.Destroyer:

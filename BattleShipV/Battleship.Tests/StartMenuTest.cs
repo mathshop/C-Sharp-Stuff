@@ -17,7 +17,5 @@ namespace Battleship.Tests
             int actual = 0;
             Assert.AreEqual(result, actual);
         }
-
-       
     }
 }

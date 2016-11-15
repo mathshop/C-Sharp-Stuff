@@ -21,7 +21,6 @@ namespace BattleShip.UI
         private string abcdefghij = "abcdefghij";
         private string ABCDEFGHIJ = "ABCDEFGHIJ";
         string orientationNumber;
-        string userCoordinates;
         int numbertoNumber;
         private Board playerOneBoard = new Board();
         private Board playerTwoBoard = new Board();
@@ -35,7 +34,7 @@ namespace BattleShip.UI
         public void playingGameFinally(string playerOne, string playerTwo)
         {
             bool didSomeoneWin = false;
-            string input;
+
             for (int i = 2; i < 200; i++)
             {
                 while (!didSomeoneWin)
@@ -137,7 +136,7 @@ namespace BattleShip.UI
                             numbertoNumber = Int32.Parse(yCoordinate);
                             Coordinate shootingCoordinated = new Coordinate(numbertoNumber, letterToNumber);
                             FireShotResponse response = playerOneBoard.FireShot(shootingCoordinated);
-                            Console.Clear();                         
+                            Console.Clear();
                             i++;
                             if (response.ShotStatus == ShotStatus.Victory)
                             {
@@ -196,24 +195,24 @@ namespace BattleShip.UI
         public void nameForPlayer(string player)
         {
             if (player == "player 1")
-            {               
+            {
                 do
                 {
                     Console.WriteLine("Please enter your name Player 1");
                     player = Console.ReadLine();
                     playerOneOfficalName = player;
-                   
-                } while (String.IsNullOrWhiteSpace(player));      
+
+                } while (String.IsNullOrWhiteSpace(player));
             }
             else
-            {               
+            {
                 do
                 {
                     //clearing so player 2 can't see player 1's board
-                    Console.Clear();              
+                    Console.Clear();
                     Console.WriteLine("Please enter your name Player 2");
-                    player = Console.ReadLine();             
-                    playerTwoOfficalName = player;               
+                    player = Console.ReadLine();
+                    playerTwoOfficalName = player;
                 } while (String.IsNullOrWhiteSpace(player));
             }
         }
@@ -365,6 +364,8 @@ namespace BattleShip.UI
                     //throwing exception null reference
                 }
             }
+            //validation-ish
+            // Console.WriteLine($" {xCoordinate}  is now {letterToNumber}");
         }
 
         public void placeShipOnPlayerBoard(ShipType shipType, string player) //players
@@ -374,7 +375,8 @@ namespace BattleShip.UI
             {
                 if (player == "player 1")
                 {
-
+                    bool validateCoordinates;
+                    string userCoordinates;
                     Console.WriteLine($"{playerOneOfficalName}'s Board Where do you want to put your ship {shipType}");
                     do
                     {
@@ -433,7 +435,7 @@ namespace BattleShip.UI
                         Console.ReadLine();
                     }
                     Console.Clear();
-                   // Console.WriteLine($"Successfully placed. {playerOneOfficalName}");
+                    // Console.WriteLine($"Successfully placed. {playerOneOfficalName}");
                     displayBoard("player 1");
                 }
                 else if (player == "player 2")
@@ -499,7 +501,7 @@ namespace BattleShip.UI
                     }
 
                     Console.Clear();
-                   // Console.WriteLine($"Successfully placed. {playerTwoOfficalName}");
+                    // Console.WriteLine($"Successfully placed. {playerTwoOfficalName}");
                     displayBoard("player 2");
                 }
             } while (!shipPlacementIsTrue);

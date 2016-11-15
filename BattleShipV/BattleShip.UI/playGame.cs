@@ -16,8 +16,6 @@ namespace BattleShip.UI
             Console.WriteLine("LETS GET READY TO RUMBLE!!!!!!!!!!!!!!!!!!!!");
             Console.WriteLine("LETS GET READY TO RUMBLE!!!!!!!!!!!!!!!!!!!!");
             Console.WriteLine("\n {0} it's your turn first, {1} please turn around!", StartMenu.playerOneOfficalName, StartMenu.playerTwoOfficalName);
-
         }
     }
-
 }

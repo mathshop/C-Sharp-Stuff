@@ -43,7 +43,7 @@ namespace BattleShip.BLL.GameLogic
             CheckShipsForHit(coordinate, response);
             CheckForVictory(response);
 
-            return response;            
+            return response;
         }
 
         public ShipPlacement PlaceShip(PlaceShipRequest request)

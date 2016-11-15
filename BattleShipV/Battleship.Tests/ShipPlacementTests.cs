@@ -19,9 +19,7 @@ namespace Battleship.Tests
                 Direction = ShipDirection.Up,
                 ShipType = ShipType.Destroyer
             };
-
             ShipPlacement response = board.PlaceShip(request);
-
             Assert.AreEqual(ShipPlacement.NotEnoughSpace, response);
         }
 
@@ -35,9 +33,7 @@ namespace Battleship.Tests
                 Direction = ShipDirection.Right,
                 ShipType = ShipType.Carrier
             };
-
             ShipPlacement response = board.PlaceShip(request);
-
             Assert.AreEqual(ShipPlacement.NotEnoughSpace, response);
         }
 
@@ -45,7 +41,6 @@ namespace Battleship.Tests
         public void CanNotOverlapShips()
         {
             Board board = new Board();
-
             // let's put a carrier at (10,10), (9,10), (8,10), (7,10), (6,10)
             PlaceShipRequest carrierRequest = new PlaceShipRequest()
             {
@@ -55,9 +50,7 @@ namespace Battleship.Tests
             };
 
             ShipPlacement carrierResponse = board.PlaceShip(carrierRequest);
-
             Assert.AreEqual(ShipPlacement.Ok, carrierResponse);
-
             // now let's put a destroyer overlapping the y coordinate
             PlaceShipRequest destroyerRequest = new PlaceShipRequest()
             {
@@ -67,7 +60,6 @@ namespace Battleship.Tests
             };
 
             ShipPlacement destroyerResponse = board.PlaceShip(destroyerRequest);
-
             Assert.AreEqual(ShipPlacement.Overlap, destroyerResponse);
         }
     }
