@@ -86,7 +86,6 @@ namespace FlooringMastery.Data
                     sw.WriteLine("NumberID,OrderID,CustomerName,State,Product,AreaProvided,TotalProductCost,TotalLaborCost,Tax,TotalPrice");
                 }
             }
-
         }
 
         public void SaveOrder(Order orderInfo)
@@ -123,14 +122,14 @@ namespace FlooringMastery.Data
             foreach (var order in orders)
             {
                 if (order.OrderID == orderInfo.OrderID && order.NumberID == orderInfo.NumberID)
-                {                  
+                {
                     continue;
                 }
                 string newTextFile = $"{FilePath.directoryfolder}\\Orders_{orderInfo.OrderID}.txt";
                 using (StreamWriter sw = new StreamWriter(newTextFile, true))
                 {
                     string line = string.Format("{0},{1},{2},{3},{4},{5},{6},{7},{8},{9}", order.NumberID, order.OrderID, order.CustomerName, order.State, order.Product, order.AreaProvided, order.TotalProductCost, order.TotalLaborCost, order.Tax, order.TotalPrice);
-                    sw.WriteLine(line);               
+                    sw.WriteLine(line);
                 }
             }
         }
@@ -144,7 +143,7 @@ namespace FlooringMastery.Data
                     string line = string.Format("{0},{1},{2},{3},{4},{5},{6},{7},{8},{9}", orderInfo.NumberID, orderInfo.OrderID, orderInfo.CustomerName, orderInfo.State, orderInfo.Product, orderInfo.AreaProvided, orderInfo.TotalProductCost, orderInfo.TotalLaborCost, orderInfo.Tax, orderInfo.TotalPrice);
                     sw.WriteLine(line);
                 }
-            }         
+            }
         }
 
         public int checkIndex(string orderID)

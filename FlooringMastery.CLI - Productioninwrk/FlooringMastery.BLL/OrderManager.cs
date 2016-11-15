@@ -55,7 +55,6 @@ namespace FlooringMastery.BLL
             {
                 _orderRepository.SaveOrder(orderInfo);
             }
-
         }
 
         public bool DeleteOrderID(Order orderInfo, int numberID)

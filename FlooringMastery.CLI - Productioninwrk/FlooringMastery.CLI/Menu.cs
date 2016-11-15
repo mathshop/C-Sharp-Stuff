@@ -14,7 +14,7 @@ namespace FlooringMastery.UI
     {
         public const string separatorBar = "------------------------";
         private static void DisplayMenu()
-        {        
+        {
             Console.Clear();
             Console.WriteLine(separatorBar);
             Console.WriteLine("Flooring Program");
@@ -28,7 +28,7 @@ namespace FlooringMastery.UI
         }
 
         private static bool ProcessChoice()
-        {        
+        {
             string userinput = Console.ReadLine();
             switch (userinput.ToUpper())
             {
@@ -37,8 +37,8 @@ namespace FlooringMastery.UI
                     lookUpWorkFlow.Execute();
                     break;
                 case "2":
-                   AddWorkFlow addWorkFlow = new AddWorkFlow();
-                   addWorkFlow.Execute();
+                    AddWorkFlow addWorkFlow = new AddWorkFlow();
+                    addWorkFlow.Execute();
                     break;
                 case "3":
                     EditWorkFlow editWorkFlow = new EditWorkFlow();
@@ -61,8 +61,8 @@ namespace FlooringMastery.UI
         {
             if (OrderManagerFactory.IsTestSystemOn())
             {
-             LoadMockData loadMockData = new LoadMockData();
-            loadMockData.Execute();
+                LoadMockData loadMockData = new LoadMockData();
+                loadMockData.Execute();
             }
         }
         public static void Start()

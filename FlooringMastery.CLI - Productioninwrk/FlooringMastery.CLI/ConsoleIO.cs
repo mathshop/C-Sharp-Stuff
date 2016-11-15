@@ -52,44 +52,42 @@ namespace FlooringMastery.CLI
 
         public static string GetCustomerName(string prompt)
         {
-
-                    Console.Write(prompt);
-                    prompt = Console.ReadLine();
-                    return prompt;
+            Console.Write(prompt);
+            prompt = Console.ReadLine();
+            return prompt;
         }
 
         public static States GetStateFromUser(string state)
         {
-            
-                Console.Write(state);
-                States theStates = new States();
-                state = Console.ReadLine().ToUpper();
-                if (state == "IA")
-                {
-                    theStates = States.IA;
-                }
-                if (state == "MN")
-                {
-                    theStates = States.MN;
-                }
-                if (state == "ND")
-                {
-                    theStates = States.ND;
-                }
-                if (state == "SD")
-                {
-                    theStates = States.SD;
-                }
-                if (state == "WI")
-                {
-                    theStates = States.WI;
-                }
-                if (state == "")
-                {
-                    return theStates;
-                }
+            Console.Write(state);
+            States theStates = new States();
+            state = Console.ReadLine().ToUpper();
+            if (state == "IA")
+            {
+                theStates = States.IA;
+            }
+            if (state == "MN")
+            {
+                theStates = States.MN;
+            }
+            if (state == "ND")
+            {
+                theStates = States.ND;
+            }
+            if (state == "SD")
+            {
+                theStates = States.SD;
+            }
+            if (state == "WI")
+            {
+                theStates = States.WI;
+            }
+            if (state == "")
+            {
                 return theStates;
             }
+            return theStates;
+        }
 
         public static ProductTypes GetProductTypeFromUser(string productType)
         {

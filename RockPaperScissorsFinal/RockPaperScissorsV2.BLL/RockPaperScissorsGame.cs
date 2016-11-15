@@ -6,7 +6,8 @@ namespace RockPaperScissorsV2.BLL
     {
         private IPlayer _player1;
         private IPlayer _player2;
-
+        public  string PlayerOneWeapon;
+        public  string PlayerTwoWeapon; 
 
         public RockPaperScissorsGame(IPlayer player1, IPlayer player2)
         {
@@ -20,12 +21,11 @@ namespace RockPaperScissorsV2.BLL
             Console.Clear();  
             Console.WriteLine("Player 1's turn...");
             Weapon player1Weapon = _player1.GetWeapon();
-           
+            PlayerOneWeapon = player1Weapon.ToString();    
             Console.Clear();
             Console.WriteLine("Player 2's turn...");         
             Weapon player2Weapon = _player2.GetWeapon();
-          // Player1sWeapon(player1Weapon, player2Weapon);
-
+            PlayerTwoWeapon = player2Weapon.ToString();
             Console.Clear();
 
             if (player1Weapon == player2Weapon)
@@ -43,14 +43,6 @@ namespace RockPaperScissorsV2.BLL
                 outcome = Outcome.Player2Wins;
             }
             return outcome;
-        }
-
-        //public Weapon PlayersWeapons(Weapon player1, Weapon player2)
-        //{
-
-            
-            
-
-        //}
+        }  
     }
 }

@@ -24,7 +24,6 @@ namespace RockPaperScissorsV2.CLI
                 IPlayer playerOne = new ComputerPlayer();
                 return playerOne;
             }
-
         }
 
         public static IPlayer GetPlayer1()

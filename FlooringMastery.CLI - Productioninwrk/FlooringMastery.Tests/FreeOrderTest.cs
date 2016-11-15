@@ -18,10 +18,10 @@ namespace FlooringMastery.Tests
         [TestCase("11223333", 2, "11223333", true)]
         [TestCase("99999999", 9, "99999999", false)]
         [TestCase("", 1, "", false)]
-        public void CanDisplayFreeOrderTestData(string orderID,int index,string url, bool result)
+        public void CanDisplayFreeOrderTestData(string orderID, int index, string url, bool result)
         {
             OrderManager manager = OrderManagerFactory.Create();
-           OrderLookupResponse response = manager.LookupOrder(orderID,index,url);
+            OrderLookupResponse response = manager.LookupOrder(orderID, index, url);
             Assert.AreEqual(result, response.Success);
         }
 
@@ -38,7 +38,7 @@ namespace FlooringMastery.Tests
 
 
         [TestCase("33333333", 1, "billybob", States.MN, ProductTypes.Laminate, 100, true)]
-       [TestCase("33333333", 1, "billybob", States.IA, ProductTypes.Carpet, -100, false)]
+        [TestCase("33333333", 1, "billybob", States.IA, ProductTypes.Carpet, -100, false)]
         [TestCase("", 1, "billybob", States.IA, ProductTypes.Carpet, -100, false)]
         [TestCase("33333333", 0, "billybob", States.IA, ProductTypes.Carpet, -100, false)]
         [TestCase("33333333", 1, "", States.IA, ProductTypes.Carpet, -100, false)]
@@ -52,9 +52,8 @@ namespace FlooringMastery.Tests
             neworder.AreaProvided = area;
             neworder.OrderID = order;
             neworder.CustomerName = customername;
-            manager.ValidationAdd(order, customername, area);           
+            manager.ValidationAdd(order, customername, area);
             MockOrderRepository.InMemoryOrderRepo();
-           
             var checkIndex = manager.WhichOneToAdd(neworder);
             Assert.AreEqual(expected, checkIndex);
         }

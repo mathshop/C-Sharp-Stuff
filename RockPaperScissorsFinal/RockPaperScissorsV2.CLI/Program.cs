@@ -16,22 +16,20 @@ namespace RockPaperScissorsV2.CLI
                 IPlayer player2 = PlayerFactory.GetPlayer2();
                 RockPaperScissorsGame game = new RockPaperScissorsGame(player1, player2);
                 Outcome outcome = game.Play();  
-               
-
-
+              
                  switch(outcome)
                 {
                     case Outcome.Player1Wins:
-                        //Console.WriteLine($"Player 1 used a {player1Weapon} and Player 2 used a {player2Weapon}.");
+                        Console.WriteLine($"Player 1 used a {game.PlayerOneWeapon} and Player 2 used a {game.PlayerTwoWeapon}.");
                         Console.WriteLine($"Player 1 wins!!!");
                         break;
                     case Outcome.Player2Wins:
-                        //Console.WriteLine($"Player 1 used a {player1Weapon} and Player 2 used a {player2Weapon}.");
+                        Console.WriteLine($"Player 1 used a {game.PlayerOneWeapon} and Player 2 used a {game.PlayerTwoWeapon}.");
                         Console.WriteLine($"Player 2 wins!!!");
                         outcome = Outcome.Player2Wins;
                         break;
                     default:
-                        //Console.WriteLine($"Player 1 used a {player1Weapon} and Player 2 used a {player2Weapon}.");
+                        Console.WriteLine($"Player 1 used a {game.PlayerOneWeapon} and Player 2 used a {game.PlayerTwoWeapon}.");
                         Console.WriteLine("It's a draw!");
                         break;
                 }

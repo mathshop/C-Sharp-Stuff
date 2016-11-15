@@ -10,3 +10,6 @@ C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\FlooringMastery.CLI 
 C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\FlooringMastery.CLI - Productioninwrk\FlooringMastery.CLI\obj\Debug\FlooringMastery.UI.csprojResolveAssemblyReference.cache
 C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\FlooringMastery.CLI - Productioninwrk\FlooringMastery.CLI\obj\Debug\FlooringMastery.CLI.exe
 C:\Users\Cheng\Desktop\swcguild2\cheng-thao-individual-work\FlooringMastery.CLI - Productioninwrk\FlooringMastery.CLI\obj\Debug\FlooringMastery.CLI.pdb
+C:\Users\Cheng\Desktop\Chengstuf\github\C-Sharp-Stuff\FlooringMastery.CLI - Productioninwrk\FlooringMastery.CLI\bin\Debug\FlooringMastery.CLI.exe.config
+C:\Users\Cheng\Desktop\Chengstuf\github\C-Sharp-Stuff\FlooringMastery.CLI - Productioninwrk\FlooringMastery.CLI\obj\Debug\FlooringMastery.CLI.exe
+C:\Users\Cheng\Desktop\Chengstuf\github\C-Sharp-Stuff\FlooringMastery.CLI - Productioninwrk\FlooringMastery.CLI\obj\Debug\FlooringMastery.CLI.pdb

@@ -7,8 +7,8 @@ namespace FlooringMastery.Data
 {
     public class MockOrderRepository : IOrderRepository
     {
-      private static List<Order> Orders = new List<Order>();
-       
+        private static List<Order> Orders = new List<Order>();
+
         public static void InMemoryOrderRepo()
         {
             Orders.Add(new Order
@@ -38,15 +38,15 @@ namespace FlooringMastery.Data
                 Tax = 6.875m,
                 TotalPrice = 900.91m
             });
-        } 
+        }
 
         public void Add(Order order)
-        {       
-            Orders.Add(order);              
+        {
+            Orders.Add(order);
         }
 
         public int checkIndex(string orderID)
-        {        
+        {
             int newID = 0;
             foreach (var order in Orders)
             {
@@ -67,14 +67,12 @@ namespace FlooringMastery.Data
 
         public void Delete(Order orderNumber)
         {
-           
             foreach (var order in Orders)
             {
                 if (orderNumber.OrderID == order.OrderID && orderNumber.NumberID == order.NumberID)
                 {
                     Orders.Remove(orderNumber);
-                    
-                    break;                          
+                    break;
                 }
             }
         }
@@ -94,13 +92,12 @@ namespace FlooringMastery.Data
 
         public Order LoadOrder(string orderNumber, int numberID, string url)
         {
-            
             foreach (var order in Orders)
             {
                 if (orderNumber == order.OrderID && numberID == order.NumberID)
                 {
                     return order;
-                }               
+                }
             }
             return null;
         }

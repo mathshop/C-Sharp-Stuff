@@ -13,9 +13,9 @@ namespace FlooringMaster.BLL
     public static class OrderManagerFactory
     {
         static string mode;
-        public static  OrderManager Create()
+        public static OrderManager Create()
         {
-             mode = ConfigurationManager.AppSettings["Mode"].ToString();
+            mode = ConfigurationManager.AppSettings["Mode"].ToString();
             switch (mode)
             {
                 case "TestSystem":
@@ -25,8 +25,7 @@ namespace FlooringMaster.BLL
                 default:
                     throw new Exception("Mode value in app config is not valid");
             }
-            
-        } 
+        }
         public static bool IsTestSystemOn()
         {
             Create();
