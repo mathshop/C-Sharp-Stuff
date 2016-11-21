@@ -1,0 +1,14 @@
+c:\Users\Cheng\documents\visual studio 2015\Projects\QBRating.CLI\QBRating.Data\bin\Debug\QBRating.Data.dll
+c:\Users\Cheng\documents\visual studio 2015\Projects\QBRating.CLI\QBRating.Data\bin\Debug\QBRating.Data.pdb
+c:\Users\Cheng\documents\visual studio 2015\Projects\QBRating.CLI\QBRating.Data\bin\Debug\QBRating.Model.dll
+c:\Users\Cheng\documents\visual studio 2015\Projects\QBRating.CLI\QBRating.Data\bin\Debug\QBRating.Model.pdb
+c:\Users\Cheng\documents\visual studio 2015\Projects\QBRating.CLI\QBRating.Data\obj\Debug\QBRating.Data.csprojResolveAssemblyReference.cache
+c:\Users\Cheng\documents\visual studio 2015\Projects\QBRating.CLI\QBRating.Data\obj\Debug\QBRating.Data.dll
+c:\Users\Cheng\documents\visual studio 2015\Projects\QBRating.CLI\QBRating.Data\obj\Debug\QBRating.Data.pdb
+C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.Data\bin\Debug\QBRating.Data.dll
+C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.Data\bin\Debug\QBRating.Data.pdb
+C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.Data\bin\Debug\QBRating.Model.dll
+C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.Data\bin\Debug\QBRating.Model.pdb
+C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.Data\obj\Debug\QBRating.Data.csprojResolveAssemblyReference.cache
+C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.Data\obj\Debug\QBRating.Data.dll
+C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.Data\obj\Debug\QBRating.Data.pdb

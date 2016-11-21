@@ -1,0 +1,32 @@
+c:\Users\Cheng\documents\visual studio 2015\Projects\QBRating.CLI\QBRating.Test\bin\Debug\QBRating.Test.dll.config
+c:\Users\Cheng\documents\visual studio 2015\Projects\QBRating.CLI\QBRating.Test\bin\Debug\QBRating.Test.dll
+c:\Users\Cheng\documents\visual studio 2015\Projects\QBRating.CLI\QBRating.Test\bin\Debug\QBRating.Test.pdb
+c:\Users\Cheng\documents\visual studio 2015\Projects\QBRating.CLI\QBRating.Test\bin\Debug\JetBrains.Annotations.dll
+c:\Users\Cheng\documents\visual studio 2015\Projects\QBRating.CLI\QBRating.Test\bin\Debug\nunit.framework.dll
+c:\Users\Cheng\documents\visual studio 2015\Projects\QBRating.CLI\QBRating.Test\bin\Debug\QBRating.BLL.dll
+c:\Users\Cheng\documents\visual studio 2015\Projects\QBRating.CLI\QBRating.Test\bin\Debug\QBRating.Model.dll
+c:\Users\Cheng\documents\visual studio 2015\Projects\QBRating.CLI\QBRating.Test\bin\Debug\QBRating.Data.dll
+c:\Users\Cheng\documents\visual studio 2015\Projects\QBRating.CLI\QBRating.Test\bin\Debug\QBRating.BLL.pdb
+c:\Users\Cheng\documents\visual studio 2015\Projects\QBRating.CLI\QBRating.Test\bin\Debug\QBRating.Model.pdb
+c:\Users\Cheng\documents\visual studio 2015\Projects\QBRating.CLI\QBRating.Test\bin\Debug\JetBrains.Annotations.xml
+c:\Users\Cheng\documents\visual studio 2015\Projects\QBRating.CLI\QBRating.Test\bin\Debug\nunit.framework.xml
+c:\Users\Cheng\documents\visual studio 2015\Projects\QBRating.CLI\QBRating.Test\bin\Debug\QBRating.Data.pdb
+c:\Users\Cheng\documents\visual studio 2015\Projects\QBRating.CLI\QBRating.Test\obj\Debug\QBRating.Test.csprojResolveAssemblyReference.cache
+c:\Users\Cheng\documents\visual studio 2015\Projects\QBRating.CLI\QBRating.Test\obj\Debug\QBRating.Test.dll
+c:\Users\Cheng\documents\visual studio 2015\Projects\QBRating.CLI\QBRating.Test\obj\Debug\QBRating.Test.pdb
+C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.Test\bin\Debug\QBRating.Test.dll.config
+C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.Test\bin\Debug\QBRating.Test.dll
+C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.Test\bin\Debug\QBRating.Test.pdb
+C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.Test\bin\Debug\JetBrains.Annotations.dll
+C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.Test\bin\Debug\nunit.framework.dll
+C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.Test\bin\Debug\QBRating.BLL.dll
+C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.Test\bin\Debug\QBRating.Model.dll
+C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.Test\bin\Debug\QBRating.Data.dll
+C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.Test\bin\Debug\QBRating.BLL.pdb
+C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.Test\bin\Debug\QBRating.Model.pdb
+C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.Test\bin\Debug\JetBrains.Annotations.xml
+C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.Test\bin\Debug\nunit.framework.xml
+C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.Test\bin\Debug\QBRating.Data.pdb
+C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.Test\obj\Debug\QBRating.Test.csprojResolveAssemblyReference.cache
+C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.Test\obj\Debug\QBRating.Test.dll
+C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.Test\obj\Debug\QBRating.Test.pdb

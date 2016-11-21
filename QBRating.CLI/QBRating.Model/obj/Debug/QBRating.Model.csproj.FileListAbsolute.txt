@@ -1,0 +1,8 @@
+c:\Users\Cheng\documents\visual studio 2015\Projects\QBRating.CLI\QBRating.Model\bin\Debug\QBRating.Model.dll
+c:\Users\Cheng\documents\visual studio 2015\Projects\QBRating.CLI\QBRating.Model\bin\Debug\QBRating.Model.pdb
+c:\Users\Cheng\documents\visual studio 2015\Projects\QBRating.CLI\QBRating.Model\obj\Debug\QBRating.Model.dll
+c:\Users\Cheng\documents\visual studio 2015\Projects\QBRating.CLI\QBRating.Model\obj\Debug\QBRating.Model.pdb
+C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.Model\bin\Debug\QBRating.Model.dll
+C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.Model\bin\Debug\QBRating.Model.pdb
+C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.Model\obj\Debug\QBRating.Model.dll
+C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.Model\obj\Debug\QBRating.Model.pdb
